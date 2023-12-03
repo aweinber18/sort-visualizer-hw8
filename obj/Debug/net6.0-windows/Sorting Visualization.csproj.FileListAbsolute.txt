@@ -1,0 +1,16 @@
+C:\Users\14164\source\repos\Sorting Visualization\bin\Debug\net6.0-windows\Sorting Visualization.exe
+C:\Users\14164\source\repos\Sorting Visualization\bin\Debug\net6.0-windows\Sorting Visualization.deps.json
+C:\Users\14164\source\repos\Sorting Visualization\bin\Debug\net6.0-windows\Sorting Visualization.runtimeconfig.json
+C:\Users\14164\source\repos\Sorting Visualization\bin\Debug\net6.0-windows\Sorting Visualization.dll
+C:\Users\14164\source\repos\Sorting Visualization\bin\Debug\net6.0-windows\Sorting Visualization.pdb
+C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\Sorting_Visualization.SortVisualizer.resources
+C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\Sorting Visualization.csproj.GenerateResource.cache
+C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\Sorting Visualization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\Sorting Visualization.AssemblyInfoInputs.cache
+C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\Sorting Visualization.AssemblyInfo.cs
+C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\Sorting Visualization.csproj.CoreCompileInputs.cache
+C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\Sorting Visualization.dll
+C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\refint\Sorting Visualization.dll
+C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\Sorting Visualization.pdb
+C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\Sorting Visualization.genruntimeconfig.cache
+C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\ref\Sorting Visualization.dll
