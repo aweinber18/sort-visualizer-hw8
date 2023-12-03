@@ -34,7 +34,7 @@ public class ShellSorter<T> : Sorter<T> where T : IComparable<T>
         array[j] = temp;
         sortVisualizer.ResetRTB();
     
-        Thread.Sleep(500);
+        Thread.Sleep(1000);
     }
 
 }
