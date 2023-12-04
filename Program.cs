@@ -11,7 +11,10 @@ namespace Sorting_Visualization
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new SortVisualizer(ints));
+            var sortVisualizer = new SortVisualizer(ints);
+            Sorter<int> sorter = new InsertionSorter<int>(sortVisualizer);
+            sortVisualizer.sorter = sorter;
+            Application.Run(sortVisualizer);
         }
     }
 }

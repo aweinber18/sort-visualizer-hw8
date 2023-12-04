@@ -15,7 +15,7 @@ public class InsertionSorter<T> : Sorter<T> where T : IComparable<T>
 		{				
 			var temp = array[i];
 			var j = i;
-			while (j - 1 > 0 && array[j].CompareTo(array[j-1]) < 0)
+			while (j - 1 >= 0 && array[j].CompareTo(array[j-1]) < 0)
 			{
 				array[j] = array[j-1];
 				j--;
@@ -24,7 +24,7 @@ public class InsertionSorter<T> : Sorter<T> where T : IComparable<T>
 
 			sortVisualizer.ResetRTB();
 			foreach (var item in array) Console.Write(item + ", ");
-            Thread.Sleep(1000);
+            //Thread.Sleep(1000);
         }
     }
 }

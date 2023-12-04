@@ -26,6 +26,8 @@ public class QuickSorter<T> : Sorter<T> where T : IComparable<T>
             j--;
         if (i != high)
             Swap(array, i, high);
+        Partition(array, 0, high / 2);
+        Partition(array, high / 2, high);
     }
     private void Swap(T[] list, int a, int b)
     {

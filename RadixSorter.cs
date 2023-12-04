@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Collections;
 
-public class RadixSorter : Sorter
+public class RadixSorter //: Sorter
 {
     private ArrayList[] buckets = new ArrayList[10]; //matrix
     private bool firstTime = true;
@@ -83,7 +83,9 @@ public class RadixSorter : Sorter
         }
         return maxLen;
     }
-    public static void Main(string[] args)
+    public 
+        //static 
+        void Main(string[] args)
     {
         // Test cases for nonnegative integers
         int[] nums1 = { 6891, 2, 23, 54, 955, 325};
@@ -91,7 +93,7 @@ public class RadixSorter : Sorter
         int[] nums3 = { 5678, 9876, 4321, 65, 1234, 5432, 7890, 3456, 6543, 2345 };
         int[] nums4 = { 9876, 54321, 12345, 87654, 2, 0, 78901, 34567, 65432, 46, 87654 };
 
-        Sorter s = new RadixSorter();
+        RadixSorter s = new RadixSorter();
 
         int[] results1 = s.Sort(nums1);
         int[] results2 = s.Sort(nums2);

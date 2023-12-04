@@ -4,13 +4,12 @@ namespace Sorting_Visualization
     {
         IList<RichTextBox> rtb = new List<RichTextBox>(12);
         int[] array = new int[12];
-        Sorter<int> sorter;
+        public Sorter<int> sorter { get; set; }
         public SortVisualizer(int[] ints)
         {
             InitializeComponent();
             InitRTB();
             array = ints;
-            sorter = new ShellSorter<int>(this);
             ResetRTB();
         }
 
