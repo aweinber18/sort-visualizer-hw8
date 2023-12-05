@@ -14,3 +14,19 @@ C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\refin
 C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\Sorting Visualization.pdb
 C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\Sorting Visualization.genruntimeconfig.cache
 C:\Users\14164\source\repos\Sorting Visualization\obj\Debug\net6.0-windows\ref\Sorting Visualization.dll
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\bin\Debug\net6.0-windows\Sorting Visualization.exe
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\bin\Debug\net6.0-windows\Sorting Visualization.deps.json
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\bin\Debug\net6.0-windows\Sorting Visualization.runtimeconfig.json
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\bin\Debug\net6.0-windows\Sorting Visualization.dll
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\bin\Debug\net6.0-windows\Sorting Visualization.pdb
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\obj\Debug\net6.0-windows\Sorting_Visualization.SortVisualizer.resources
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\obj\Debug\net6.0-windows\Sorting Visualization.csproj.GenerateResource.cache
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\obj\Debug\net6.0-windows\Sorting Visualization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\obj\Debug\net6.0-windows\Sorting Visualization.AssemblyInfoInputs.cache
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\obj\Debug\net6.0-windows\Sorting Visualization.AssemblyInfo.cs
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\obj\Debug\net6.0-windows\Sorting Visualization.csproj.CoreCompileInputs.cache
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\obj\Debug\net6.0-windows\Sorting Visualization.dll
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\obj\Debug\net6.0-windows\refint\Sorting Visualization.dll
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\obj\Debug\net6.0-windows\Sorting Visualization.pdb
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\obj\Debug\net6.0-windows\Sorting Visualization.genruntimeconfig.cache
+C:\Users\shlom\Source\Repos\sort-visualizer-hw8\obj\Debug\net6.0-windows\ref\Sorting Visualization.dll

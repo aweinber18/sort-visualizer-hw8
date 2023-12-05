@@ -5,9 +5,14 @@ using System.Text;
 using System.Threading.Tasks;
 
 using System;
+using Sorting_Visualization;
 
 public class CountingSorter<T> : Sorter<T> where T : IComparable<T>
 {
+    private SortVisualizer sortVisualizer;
+    public CountingSorter(SortVisualizer sv){
+        sortVisualizer = sv;
+    }
     public void Sort(T[] array)
     {
         if (array == null)
@@ -55,6 +60,9 @@ public class CountingSorter<T> : Sorter<T> where T : IComparable<T>
                 array[index] = (T)Convert.ChangeType(i + Convert.ToInt32(min), typeof(T));
                 index++;
                 countArray[i]--;
+                sortVisualizer.ResetRTB();
+
+                Thread.Sleep(1000);
             }
         }
     }

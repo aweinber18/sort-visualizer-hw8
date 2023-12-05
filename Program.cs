@@ -12,7 +12,7 @@ namespace Sorting_Visualization
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
             var sortVisualizer = new SortVisualizer(ints);
-            Sorter<int> sorter = new InsertionSorter<int>(sortVisualizer);
+            Sorter<int> sorter = new QuickSorter<int>(sortVisualizer);
             sortVisualizer.sorter = sorter;
             Application.Run(sortVisualizer);
         }
